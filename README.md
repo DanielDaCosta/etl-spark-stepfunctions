@@ -24,8 +24,7 @@ If you want to use an already created cluster, you must pass the Cluster-Id to t
     "CreateCluster": false,
     "TerminateCluster": false,
     "ClusterId": {YOUR_CLUSTER_ID}
-}
-```
+}```
 
 ## Create Cluster
 In this state, we will:
