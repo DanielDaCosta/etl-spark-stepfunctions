@@ -6,6 +6,7 @@ To preprocess the raw data from s3, we will be using EMR as our computer resourc
 ## Workflow
 
 The state machine's workflow that will be building is the following:
+
 ![Architecture](Images/step_function_architecture.png)
 
 ## Input
@@ -223,5 +224,3 @@ First, we have to disable the Termination Protection, and then we can terminate 
 - https://docs.aws.amazon.com/step-functions/latest/dg/connect-emr.html
 - https://docs.aws.amazon.com/emr/latest/APIReference/API_RunJobFlow.html
 - https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-commandrunner.html
-    
-    
