@@ -218,3 +218,10 @@ First, we have to disable the Termination Protection, and then we can terminate 
     }
 
 ```
+
+# References
+- https://docs.aws.amazon.com/step-functions/latest/dg/connect-emr.html
+- https://docs.aws.amazon.com/emr/latest/APIReference/API_RunJobFlow.html
+- https://docs.aws.amazon.com/emr/latest/ReleaseGuide/emr-commandrunner.html
+    
+    
